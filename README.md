@@ -1,2 +1,3 @@
 # simple-player
-just learning
+
+just a simple terminal-based audio player
